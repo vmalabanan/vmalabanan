@@ -1,5 +1,5 @@
 ### Hi there!👋🏼
-I'm a full stack-developer and Unity tools programmer with experience in C#, Unity, Java, C++, JavaScript and Python.
+I'm a full stack-developer and video game programmer with experience in C#, Unity, Java, C++, JavaScript and Python.
 
 - 😄 Pronouns: she/her/hers
 
