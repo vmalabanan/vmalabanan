@@ -1,5 +1,5 @@
 ### Hi there!👋🏼
-I'm a full stack-developer and video game programmer with experience in C#, Unity, Java, C++, JavaScript and Python.
+I'm a software engineer and video game programmer with experience in C++, C#, Unity, Unreal, Java, C++, JavaScript, React, React Native, HTML, CSS, Python, Illustrator, Photoshop, and Blender.
 
 - 😄 Pronouns: she/her/hers
 
